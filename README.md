@@ -1,6 +1,6 @@
 ## Olá, sou Luisgui26
 
-- 🌱 Cursando faculdade de enenharia de software
+- 🌱 Cursando faculdade de Ciências da computação
 
 <picture>
 <source 
